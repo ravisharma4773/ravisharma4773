@@ -4,7 +4,7 @@
 **Email:** [ravisharma010050@gmail.com](mailto:ravisharma010050@gmail.com)  
 **Mobile:** +91 7390096977  
 
-[LinkedIn](https://www.linkedin.com/in/ravi-sharma-541784228/) | [GitHub](https://github.com/ravisharma4773) | [Leetcode](https://leetcode.com/Ravi_sharmaa/)
+[LinkedIn](https://www.linkedin.com/in/ravi-sharma-541784228/) | [GitHub](https://github.com/ravisharma4773) | [Leetcode]([https://leetcode.com/ravisharma4773](https://leetcode.com/u/ravisharma4773/))
 
 ## Profile
 
