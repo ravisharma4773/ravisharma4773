@@ -38,7 +38,7 @@ Percentage: 76
 
 **Bright Way Public School, Jagdishpur, Uttar Pradesh, India**  
 *High School*  
-May 2021  
+May 2019  
 Percentage: 82.2
 
 ## Projects
