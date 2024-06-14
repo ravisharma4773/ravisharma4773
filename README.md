@@ -4,7 +4,7 @@
 **Email:** [ravisharma010050@gmail.com](mailto:ravisharma010050@gmail.com)  
 **Mobile:** +91 7390096977  
 
-[LinkedIn](#) | [GitHub](https://github.com/ravisharma4773) | [Leetcode](https://leetcode.com/Ravi_sharmaa/)
+[LinkedIn](https://www.linkedin.com/in/ravi-sharma-541784228/) | [GitHub](https://github.com/ravisharma4773) | [Leetcode](https://leetcode.com/Ravi_sharmaa/)
 
 ## Profile
 
@@ -20,7 +20,7 @@ I am a dedicated and adaptable student currently pursuing a Bachelor's of Techno
 
 ## Achievements
 
-- **Leetcode:** Successfully solved over 220 problems, demonstrating advanced problem-solving skills.
+- **Leetcode:** Successfully solved over 400 problems, demonstrating advanced problem-solving skills.
 - **Flipkart Grid:** Achieved level 1 certification.
 - **HackerRank 5 Star Problem Solving:** Attained the highest rating in problem-solving on HackerRank, demonstrating exceptional problem-solving abilities.
 
